@@ -19,8 +19,8 @@ Perceptron (MLP)
 Computer Vision, Image Processing, Deep Learning, Convolutional Neural Networks, Multilayer Perceptron, SIFT Algorithm, Bag-of-Visual-Words
 
 ##  Data
-•	CIFAR10
-•	MNIST
+* CIFAR10
+*	MNIST
 
 ## Methods
 * Perceptron
